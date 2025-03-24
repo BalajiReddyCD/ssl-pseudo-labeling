@@ -15,8 +15,8 @@ We simulate a semi-supervised environment:
 
 ## 📂 Files Included
 
-- `pseudo_labeling_cifar10_colab_final.ipynb`: Final Colab-ready notebook with all code and fixes
-- `semi_supervised_learning_tutorial_with_refs.html`: HTML version of the tutorial
+- `pseudo_labeling_cifar10.ipynb`: Final Colab-ready notebook with all code and fixes
+- `semi_supervised_learning_tutorial.html`: HTML version of the tutorial
 - `README.md`: Project overview and instructions
 - `LICENSE`: Open-source license (MIT)
 
