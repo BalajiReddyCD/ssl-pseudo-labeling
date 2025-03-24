@@ -29,7 +29,7 @@ We simulate a semi-supervised environment:
 
 ## 🚀 Run This Notebook in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/semi-supervised-cifar10/blob/main/pseudo_labeling_cifar10_colab_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BalajiReddyCD/semi-supervised-cifar10/blob/main/pseudo_labeling_cifar10.ipynb)
 
 ## 📚 References
 
