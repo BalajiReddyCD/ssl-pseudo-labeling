@@ -33,7 +33,6 @@ We simulate a semi-supervised environment:
 
 ## 📚 References
 
-- Lee, D.-H. (2013). [Pseudo-Label](https://deeplearning.stanford.edu/seminar/2013_lectures/0320_pseudo_labels.pdf)
 - Oliver et al. (2018). [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://arxiv.org/abs/1804.09170)
 - Berthelot et al. (2019). [MixMatch](https://arxiv.org/abs/1905.02249)
 - Sohn et al. (2020). [FixMatch](https://arxiv.org/abs/2001.07685)
